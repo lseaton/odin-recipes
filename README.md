@@ -1,1 +1,1 @@
-[Write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. You can do this as a self-reflection at the end of the project]
+My first web developpment project from theodinproject, reinforcing basic html principles by creating a simple recipe site.
