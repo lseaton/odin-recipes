@@ -1,0 +1,23 @@
+body {
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h3 {
+	color: purple;
+}
+
+img {
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 15px;
+}
+
+ul,
+ol {
+	list-style-position: outside;
+}
+
+.more {
+	text-align: right;
+	display: block;
+}
